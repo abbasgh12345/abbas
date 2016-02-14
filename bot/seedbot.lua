@@ -252,11 +252,11 @@ function create_config( )
     "left",
     "support",
     },
-    sudo_users = {144152859},--Sudo users
+    sudo_users = {179983320},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/m13790115/eset.git
+https://github.com/abbasgh12345/abbas
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -478,11 +478,11 @@ English-Lock
 you can use both "/" and "!" 
 شما میتوانید از ! و / استفاده کنید
 
-Developer: @kingbot4
+Developer: @unkownhacker
 توسعه دهنده
 
 برای ادمین شدنم پیوی بات یا ادمین بیاین
-channel: @kingantispam
+channel: @extremerobos
 کانال ما
 در کانال ما گروه رایگان قرار داده میشود
 G00D LUCK ^_^
